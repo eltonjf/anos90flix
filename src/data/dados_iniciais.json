@@ -1,0 +1,184 @@
+{
+  "categorias": [
+    {
+      "titulo": "Filmes",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+    
+      "videos": [
+        {
+          "titulo": "O rei leão",
+          "url": "https://www.youtube.com/watch?v=2I_KdpJHLJo"
+        },
+        {
+          "titulo": "Titanic",
+          "url": "https://www.youtube.com/watch?v=CHekzSiZjrY"
+        },
+        {
+          "titulo": "Jurassic Park",
+          "url": "https://www.youtube.com/watch?v=Wfv5jdW__N0"
+        },
+        {
+          "titulo": "The Matrix",
+          "url": "https://www.youtube.com/watch?v=D4eJx-0g3Do"
+        },
+        {
+          "titulo": "MIB",
+          "url": "https://www.youtube.com/watch?v=etoyQ0vfNhw"
+        },
+        {
+          "titulo": "Ghost",
+          "url": "https://www.youtube.com/watch?v=8uubih798tg"
+        },
+        {
+          "titulo": "Forrest Gump",
+          "url": "https://www.youtube.com/watch?v=bLvqoHBptjg"
+        },
+        {
+          "titulo": "Coração Valente",
+          "url": "https://www.youtube.com/watch?v=8fbydrnO8uo"
+        }        
+      ]
+    },
+    {
+      "titulo": "Músicas Nacionais",
+      "cor": "#00C86F",
+   
+      "videos": [
+        {
+          "titulo": "É o tchan - Pau que nasce torto/Melo do tchan",
+          "url": "https://www.youtube.com/watch?v=657mzyajxKM"
+        },
+        {
+          "titulo": "Mamonas Assassinas - Pelados em Santos",
+          "url": "https://www.youtube.com/watch?v=Nz7101ulkK0"
+        },
+        {
+          "titulo": "Os morenos - Marrom Bombom",
+          "url": "https://www.youtube.com/watch?v=FpE0OB4VHIY"
+        },
+        {
+          "titulo": "Kagintuele - Lua vai",
+          "url": "https://www.youtube.com/watch?v=7gPxDh7DZNU"
+        },
+        {
+          "titulo": "Los Hermanos - Anna júlia",
+          "url": "https://www.youtube.com/watch?v=QOl_wKBtsiM"
+        }, 
+        {
+          "titulo": "Raimundos - Mulher de fases",
+          "url": "https://www.youtube.com/watch?v=ehCkyxt06SQ"
+        }
+      ]
+    },
+    {
+      "titulo": "Programas de TV",
+      "cor": "#9cd33b",
+      
+      "videos": [
+        {
+          "titulo": "Friends",
+          "url": "https://www.youtube.com/watch?v=sLisEEwYZvw"
+        },
+        {
+          "titulo": "Um maluco no pedaço",
+          "url": "https://www.youtube.com/watch?v=mxBauZxV9Us"
+        },
+        {
+          "titulo": "Sai de baixo",
+          "url": "https://www.youtube.com/watch?v=bnv-2hWpewU"
+        },
+        {
+          "titulo": "Como ingressar no mercado de Data Science?",
+          "url": "https://www.youtube.com/watch?v=tLDnNIM3kXs"
+        },
+        {
+          "titulo": "Castelo Ra-tim-bum",
+          "url": "https://www.youtube.com/watch?v=d_SBWVVRD7o"
+        }
+      ]
+    },
+    {
+      "titulo": "Desenhos",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "Gattaca",
+          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        },
+        {
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Músicas Internacionais",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Britney Spears - Baby onte more time",
+          "url": "https://www.youtube.com/watch?v=C-u5WLJ9Yk4&list=PLSj1tP_o94F53o5JlSuA4YqQl-FmUtNQf&index=5"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
